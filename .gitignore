@@ -1,2 +1,4 @@
 greeter
 *.o
+*.swp
+.*.swp
