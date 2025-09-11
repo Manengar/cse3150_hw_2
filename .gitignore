@@ -2,3 +2,4 @@ greeter
 *.o
 *.swp
 .*.swp
+.venv/
